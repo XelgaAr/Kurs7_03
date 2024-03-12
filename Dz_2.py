@@ -1,0 +1,6 @@
+a = int(input('input number'))
+print(a // 1000)
+print((a % 1000) // 100)
+print((a % 100) // 10)
+x, y = (divmod(a, 10))
+print(y)
