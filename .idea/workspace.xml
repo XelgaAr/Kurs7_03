@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4f0d2c1-1c6a-4029-9569-95392f7d3fe5" name="Changes" comment="dz_2">
-      <change beforePath="$PROJECT_DIR$/Dz_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dz_5.py" afterDir="false" />
+    <list default="true" id="b4f0d2c1-1c6a-4029-9569-95392f7d3fe5" name="Changes" comment="dz_5">
+      <change afterPath="$PROJECT_DIR$/Dz_6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,7 @@
   "keyToString": {
     "Python.Dz_4.executor": "Run",
     "Python.Dz_5.executor": "Run",
+    "Python.Dz_6.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -55,7 +56,7 @@
       <recent name="A:\PythonKurs\7_03_Kurs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Dz_5">
+  <component name="RunManager" selected="Python.Dz_6">
     <configuration name="Dz_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="7_03_Kurs" />
       <option name="ENV_FILES" value="" />
@@ -100,6 +101,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Dz_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="7_03_Kurs" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dz_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="7_03_Kurs" />
       <option name="ENV_FILES" value="" />
@@ -124,6 +147,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Dz_6" />
         <item itemvalue="Python.Dz_5" />
         <item itemvalue="Python.Dz_4" />
       </list>
@@ -185,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710592977408</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="dz_5">
+      <option name="closed" value="true" />
+      <created>1710593342803</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710593342803</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +240,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="dz_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz_2" />
+    <MESSAGE value="dz_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz_5" />
   </component>
 </project>
