@@ -6,12 +6,12 @@
 # [1, 3, 5]
 # [6]
 # []
-first_list =[0, 1, 7, 2, 4, 8]
+first_list =[]
 
-if len(first_list)== 0 :
-    print([])
+if len(first_list)== 0:
+    print(0)
 else:
     list1 = first_list[::2]
-    list2 = first_list[-1]
-    print((sum(list1))*list2)
+    el2 = first_list[-1]
+    print((sum(list1))*el2)
 
