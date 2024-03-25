@@ -16,8 +16,8 @@ import keyword
 import string
 
 my_string = input('Введите название переменной: ')
-isOk = "_" == my_string or (my_string.islower() and not my_string[0].isdigit() and " " not in my_string)
-isNotOk = (my_string in keyword.kwlist
+is_ok = "_" == my_string or (my_string.islower() and not my_string[0].isdigit() and " " not in my_string)
+is_not_ok = (my_string in keyword.kwlist
            or any(el in string.punctuation and el != "_" for el in my_string))
 
-print(isOk and not isNotOk)
+print(is_ok and not is_not_ok)
